@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PQP EU ODEIO LOL
 
-## Getting Started
+## English
+**Wtf I Hate LoL** is a project that expresses the love-hate relationship that many players have with League of Legends. Inspired by the website "I F\*\*\*ing Hate Jira", this project presents a collection of sincere quotes about frustrating experiences with the game, allowing other players to share similar outbursts. \(Portuguese, seeing for a English website on the future)\
 
-First, run the development server:
+### Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Sincere Quotes**: Click on the icon on the home page to view a random rant about League of Legends.
+- **Dynamic Routing**: Each phrase is accessed via a unique route, ensuring a seamless browsing experience.
+- **Highlights in Sentences**: Uses `rough-notation` to highlight specific parts of sentences, emphasizing the most intense emotions.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### How to Access
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit the website [nextjs-pqpeuodeiolol.vercel.app](https://nextjs-pqpeuodeiolol.vercel.app/) to read the sentences and share the experience of other players.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Portuguese
 
-## Learn More
+**Pqp eu odeio LoL** é um projeto que expressa a relação de amor e ódio que muitos jogadores têm com o League of Legends. Inspirado no site "I F\*\*\*ing Hate Jira", este projeto apresenta uma coleção de frases sinceras sobre experiências frustrantes com o jogo, permitindo que outros jogadores compartilhem de desabafos similares.
 
-To learn more about Next.js, take a look at the following resources:
+### Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frases Sinceras**: Clique no ícone na página inicial para visualizar um desabafo aleatório sobre o League of Legends.
+- **Roteamento Dinâmico**: Cada frase é acessada por uma rota única, garantindo uma experiência de navegação contínua.
+- **Destaques nas Frases**: Utiliza `rough-notation` para destacar trechos específicos nas frases, enfatizando as emoções mais intensas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Como Acessar
 
-## Deploy on Vercel
+Acesse o site [nextjs-pqpeuodeiolol.vercel.app](https://nextjs-pqpeuodeiolol.vercel.app/) para ler as frases e compartilhar da experiência de outros jogadores.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Exemplos de Frases
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- "Eu não aguento mais. Meu noivo trabalha durante a semana e assim que ele termina já vai direto pro Lol..."
+- "É sempre a mesma coisa: vou jogar pra relaxar e acabo estressado. Grito, fico irritado, me sinto sugado..."
+
+<br>
+<br>
+
+## Para Desenvolvedores
+
+### Instalação
+
+1. Clone o repositório:
+   ```bash
+    git clone https://github.com/seu_usuario/pqpeuodeiolol.git
+   ```
+
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd pqpeuodeiolol
+   ```
+
+3. Instale as dependências:
+   ```bash
+   bash
+   npm install
+   ```
+
+4. Inicie o projeto localmente:
+   ```bash
+   bash
+   npm start
+   ```
+### Estrutura do Projeto
+- App.tsx: Componente principal do projeto.
+- PhrasePage.tsx: Página que exibe frases individuais e navegação.
+- FrasesComponent.tsx: Página inicial onde o usuário acessa frases aleatórias.
+- dbHelpers.ts: Funções auxiliares para gerenciamento das frases.
+
+### Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com sugestões de frases ou melhorias. Se quiser apoiar o projeto, considere fazer uma doação via [Me Paga um Café](https://mepagaumcafe.com.br/gabecmelo/).
