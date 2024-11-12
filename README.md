@@ -13,7 +13,14 @@
 
 Visit the website [pqpeuodeiolol-nextjs.vercel.app/](https://pqpeuodeiolol-nextjs.vercel.app/) to read the sentences and share the experience of other players.
 
-## Portuguese
+### Project next steps
+1. Add Back-end database MVC architecture with Node.js
+2. Add a Full English Language support
+
+<br>
+<br>
+
+## Português
 
 **Pqp eu odeio LoL** é um projeto que expressa a relação de amor e ódio que muitos jogadores têm com o League of Legends. Inspirado no site "I F\*\*\*ing Hate Jira", este projeto apresenta uma coleção de frases sinceras sobre experiências frustrantes com o jogo, permitindo que outros jogadores compartilhem de desabafos similares.
 
@@ -31,6 +38,10 @@ Acesse o site [pqpeuodeiolol-nextjs.vercel.app/](https://pqpeuodeiolol-nextjs.ve
 
 - "Eu não aguento mais. Meu noivo trabalha durante a semana e assim que ele termina já vai direto pro Lol..."
 - "É sempre a mesma coisa: vou jogar pra relaxar e acabo estressado. Grito, fico irritado, me sinto sugado..."
+
+### Próximos passos do projeto
+1. Adicionar um banco de dados back-end com arquitetura MVC utilizando Node.js
+2. Adicionar suporte completo do site para a linguagem Inglesa
 
 <br>
 <br>
