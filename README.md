@@ -11,7 +11,7 @@
 
 ### How to Access
 
-Visit the website [nextjs-pqpeuodeiolol.vercel.app](https://nextjs-pqpeuodeiolol.vercel.app/) to read the sentences and share the experience of other players.
+Visit the website [pqpeuodeiolol-nextjs.vercel.app/](https://pqpeuodeiolol-nextjs.vercel.app/) to read the sentences and share the experience of other players.
 
 ## Portuguese
 
@@ -25,7 +25,7 @@ Visit the website [nextjs-pqpeuodeiolol.vercel.app](https://nextjs-pqpeuodeiolol
 
 ### Como Acessar
 
-Acesse o site [nextjs-pqpeuodeiolol.vercel.app](https://nextjs-pqpeuodeiolol.vercel.app/) para ler as frases e compartilhar da experiência de outros jogadores.
+Acesse o site [pqpeuodeiolol-nextjs.vercel.app/](https://pqpeuodeiolol-nextjs.vercel.app/) para ler as frases e compartilhar da experiência de outros jogadores.
 
 ### Exemplos de Frases
 
