@@ -1,1 +1,1 @@
-*.css linguist-generated=true
+app/output.css linguist-detectable=false
